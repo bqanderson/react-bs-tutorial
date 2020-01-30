@@ -1,0 +1,7 @@
+export { default as Layout } from './Layout'
+export { default as NavigationBar } from './NavigationBar'
+export { default as Jumbotron } from './Jumbotron'
+export { default as Home } from './Home'
+export { default as About } from './About'
+export { default as Contact } from './Contact'
+export { default as NotFound } from './NotFound'
